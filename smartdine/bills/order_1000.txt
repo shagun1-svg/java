@@ -1,0 +1,15 @@
+--- SmartDine Bill ---
+
+Order Number: 1000
+Table: T3
+Customer: shhshhh
+Date: 2025-05-24 17:59:27
+
+Items:
+- Burger                    x 1   $5.99
+- Coke                      x 1   $1.50
+
+-----------------------------------
+Total: $7.49
+-----------------------------------
+Thank you for dining with SmartDine!

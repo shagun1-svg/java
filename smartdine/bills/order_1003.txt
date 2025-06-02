@@ -1,0 +1,14 @@
+--- SmartDine Bill ---
+
+Order Number: 1003
+Table: T4
+Customer: shagun
+Date: 2025-05-24 18:01:23
+
+Items:
+- Burger                    x 10  $59.90
+
+-----------------------------------
+Total: $59.90
+-----------------------------------
+Thank you for dining with SmartDine!

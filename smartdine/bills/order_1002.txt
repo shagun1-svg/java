@@ -1,0 +1,14 @@
+--- SmartDine Bill ---
+
+Order Number: 1002
+Table: T6
+Customer: saakshi
+Date: 2025-05-24 18:00:48
+
+Items:
+- Lemonade                  x 4   $8.00
+
+-----------------------------------
+Total: $8.00
+-----------------------------------
+Thank you for dining with SmartDine!

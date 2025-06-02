@@ -1,0 +1,14 @@
+--- SmartDine Bill ---
+
+Order Number: 1001
+Table: T2
+Customer: shagun
+Date: 2025-05-24 18:00:19
+
+Items:
+- Cheesecake                x 7   $28.00
+
+-----------------------------------
+Total: $28.00
+-----------------------------------
+Thank you for dining with SmartDine!
